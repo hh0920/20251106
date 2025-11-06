@@ -1,0 +1,6 @@
+question,optionA,optionB,optionC,optionD,correct
+"p5.js 是一個用於...的 JavaScript 函式庫","創意編碼","資料庫管理","機器學習","3D建模",A
+"哪個函式在程式開始時只會被呼叫一次？","draw()","setup()","preload()","mouseClicked()",B
+"在 p5.js 中，函式 rect(x, y, w, h) 會繪製什麼？","一個左上角在 (x, y) 的矩形","一個圓形","一條線","一個三角形",A
+"在 p5.js 中，畫布的背景顏色通常在哪個函式中設定？","background()","fill()","color()","stroke()",A
+"p5.js 中的 `width` 和 `height` 變數代表什麼？","視窗的寬度和高度","畫布的寬度和高度","滑鼠的座標","文字的大小",B
